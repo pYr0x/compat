@@ -1,0 +1,16 @@
+{
+  "name": "compat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "can": "^5.2.2",
+    "can-3-4-compat": "^1.0.0",
+    "steal": "^1.12.4"
+  }
+}
